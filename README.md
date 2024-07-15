@@ -20,9 +20,6 @@ This is a program that allows searching for book titles through an API called Gu
 - Maven (Dependency Management Tool)
 - Postgresql (Database)
 
-## Created by
-- Dulce Itamar Vigueras Ballesteros
-
 
 ## Application Execution
 
