@@ -21,8 +21,6 @@ Este es un programa que permite uscar títulos de libros através de una API lla
 - Maven (Gestor de Dependencias)
 - Postgresql (Base de datos)
 
-## Creado por 
-- Dulce Itamar Vigueras Ballesteros
 
 
 ## Ejecución de la aplicación.
